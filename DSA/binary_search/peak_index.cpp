@@ -16,4 +16,4 @@ public:
         }
         return 1;
     }
-};// array me peak element ki index find karna hai 
+};// array me peak element ki index find karna hai ...💥
