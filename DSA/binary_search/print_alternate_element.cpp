@@ -38,6 +38,7 @@ int main()
       print(ar,n);
       cout<<endl;
      }
+//This is the alternate element of an array
 
 return 0;
 }
