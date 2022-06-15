@@ -25,4 +25,4 @@ return -x;
 return x;
 }
     
-};
+};// ye distance between alement in an array calculate karne ka tareeka hai
