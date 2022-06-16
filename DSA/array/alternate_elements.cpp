@@ -41,4 +41,4 @@ int main()
 
 return 0;
 }
-  // alternate elements 
+  // alternate elements in an array
