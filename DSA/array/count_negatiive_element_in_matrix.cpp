@@ -10,3 +10,4 @@
             }
         }
         return c;
+        // count negative elements in a matrix
