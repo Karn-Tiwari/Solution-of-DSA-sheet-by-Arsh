@@ -29,4 +29,4 @@ int maxlength( string s)
        else count=0;
    }
    return mx;
-}
+}//longest substring containing 1
