@@ -52,3 +52,5 @@ public:
         return ans;
     }
 };
+
+// Add Binary in string 
