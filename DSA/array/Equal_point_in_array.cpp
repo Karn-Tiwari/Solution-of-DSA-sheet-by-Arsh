@@ -17,4 +17,4 @@
        }
        
        return -1;
-   }
+   }//Equal point in an array
