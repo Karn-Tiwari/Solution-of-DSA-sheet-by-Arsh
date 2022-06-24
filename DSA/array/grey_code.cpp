@@ -11,7 +11,6 @@ class Solution {
     }
 };
 
-// { Driver Code Starts.
 int main() {
     int t;
     cin >> t;
@@ -24,4 +23,4 @@ int main() {
         cout << ob.getGray(n) << endl;
     }
     return 0;
-}  // } Driver Code Ends
+}  
