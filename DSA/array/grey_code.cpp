@@ -1,8 +1,8 @@
-// { Driver Code Starts
+// starting the solution
 #include <bits/stdc++.h>
 using namespace std;
 
- // } Driver Code Ends
+
 class Solution {
   public:
     int getGray(int n) {
