@@ -1,5 +1,3 @@
-// { Driver Code Starts
-//Initial Template for C++
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -29,7 +27,6 @@ class Solution
     }
 };
 
-// { Driver Code Starts.
 
 
 int main()
