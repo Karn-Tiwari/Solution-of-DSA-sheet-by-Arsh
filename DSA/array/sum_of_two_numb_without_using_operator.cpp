@@ -31,7 +31,7 @@ class Solution
 
 // { Driver Code Starts.
 
-// Driver code
+
 int main()
 {
 	int t;
@@ -46,4 +46,4 @@ int main()
 		cout << ob.swapBits(n) << endl;
 	}
 	return 0;
-}  // } Driver Code Ends
+}  
