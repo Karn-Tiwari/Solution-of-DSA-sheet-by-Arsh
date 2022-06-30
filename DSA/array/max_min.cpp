@@ -26,10 +26,12 @@ void Answer()
         cin>>A[i-1];
     }
     char last = '0';// last element 0 hai ki nhi
-    int count = A.back() == '0';// last element agar 0 ho gaya to ek peak element mill gaya aur usko count kar lenge
+    int count = A.back() == '0';// last element agar 0 ho gaya to ek peak element mill gaya aur usko count kar lenge ye sab
+    
     for(int a:A)
     {
-        if(last =='0' && a == '1'){//last zero and starting 1 to count badh jaeyga
+        if(last =='0' && a == '1'){
+        //last zero and starting 1 to count badh jaeyga
             count++;
         }
         last = a;
