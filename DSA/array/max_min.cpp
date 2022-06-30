@@ -27,7 +27,7 @@ void Answer()
     }
     char last = '0';// last element 0 hai ki nhi
     int count = A.back() == '0';// last element agar 0 ho gaya to ek peak element mill gaya aur usko count kar lenge ye sab
-    
+    //A.back() == '0' is used to check if last element is 0 or not. If it is 0 then count is incremented by 1.
     for(int a:A)
     {
         if(last =='0' && a == '1'){
